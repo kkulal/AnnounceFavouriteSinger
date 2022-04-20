@@ -1708,7 +1708,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.6.1/win7-x86": {
+    ".NETFramework,Version=v4.6.1/win10-x64": {
       "AutoMapper/9.0.0": {
         "type": "package",
         "frameworkAssemblies": [
@@ -5370,15 +5370,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anupa\\.nuget\\packages\\": {}
+    "C:\\Users\\kulal\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "AnnounceFavouriteSinger",
       "projectName": "AnnounceFavouriteSinger",
-      "projectPath": "C:\\Users\\anupa\\Desktop\\Descriptify\\Tutorials\\UiPath Jenkins CICDDemo_Tests\\AnnounceFavouriteSinger\\.local",
-      "packagesPath": "C:\\Users\\anupa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anupa\\Desktop\\Descriptify\\Tutorials\\UiPath Jenkins CICDDemo_Tests\\AnnounceFavouriteSinger\\.local"
+      "projectPath": "C:\\Users\\kulal\\Documents\\UiPath\\AnnounceFavouriteSinger\\.local",
+      "packagesPath": "C:\\Users\\kulal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kulal\\Documents\\UiPath\\AnnounceFavouriteSinger\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5409,7 +5409,12 @@
             "version": "[21.4.3, 21.4.3]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\anupa\\AppData\\Local\\UiPath\\app-21.4.3\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\kulal\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+      }
+    },
+    "runtimes": {
+      "win10-x64": {
+        "#import": []
       }
     }
   }
